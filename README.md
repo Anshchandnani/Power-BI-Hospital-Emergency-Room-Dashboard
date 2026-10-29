@@ -92,3 +92,12 @@ created for learning and practice, with guidance from a tutorial.
 The dashboard is an educational project and should not be treated as a
 live hospital operations system. Insights depend on the source dataset
 and the definitions used in the report.
+
+## Learning Reference
+
+This project was developed as a learning exercise with guidance from a YouTube tutorial by the Data Tutorials channel.
+
+- **Tutorial:** [Hospital Emergency Room Dashboard Tutorial](https://www.youtube.com/watch?v=kSSeSnODmWo&t=3s)
+- **Creator:** Data Tutorials
+
+The dashboard helped me practise Power BI data transformation, table relationships, date table creation, and multi-page report design.
